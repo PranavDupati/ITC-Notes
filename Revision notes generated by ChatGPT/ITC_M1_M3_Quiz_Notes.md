@@ -1,7 +1,5 @@
 # ITC Lab Quiz: M1-M3 Quick Revision
 
-**Quiz scope:** M1 (computers, C introduction, number systems), M2 (C basics and I/O), and M3 (control flow and arrays). These notes are deliberately short and code-first.
-
 ## M1 - computers, C, and number systems
 
 ### C program skeleton
